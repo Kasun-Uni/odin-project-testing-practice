@@ -1,0 +1,26 @@
+{
+  "name": "odin-project-testing-practice",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000o\u0000d\u0000i\u0000n\u0000-\u0000p\u0000r\u0000o\u0000j\u0000e\u0000c\u0000t\u0000-\u0000t\u0000e\u0000s\u0000t\u0000i\u0000n\u0000g\u0000-\u0000p\u0000r\u0000a\u0000c\u0000t\u0000i\u0000c\u0000e\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kasun-Uni/odin-project-testing-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Kasun-Uni/odin-project-testing-practice/issues"
+  },
+  "homepage": "https://github.com/Kasun-Uni/odin-project-testing-practice#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.29.7",
+    "jest": "^30.5.1"
+  }
+}
